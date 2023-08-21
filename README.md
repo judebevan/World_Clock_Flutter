@@ -1,5 +1,12 @@
 # world_clock
 
+![home](https://github.com/judebevan/World_Clock_Flutter/assets/89778410/b92281d5-c805-485d-befd-9c0f9516dac3)
+
+![select location](https://github.com/judebevan/World_Clock_Flutter/assets/89778410/dc54819c-33f6-43ad-b29f-a1de6a31590e)
+
+![night  day time](https://github.com/judebevan/World_Clock_Flutter/assets/89778410/b94d5e59-7be0-4377-82f9-411480334397)
+
+
 A new Flutter project.
 
 ## Getting Started
